@@ -1,0 +1,16 @@
+# Matteo Sarrocco
+
+> Architetto a Roma. Lavora nella trasformazione digitale applicata al settore delle costruzioni e delle infrastrutture: ottimizza e standardizza i processi, ne favorisce l'automazione e la semplificazione, ha progettato e sviluppato sistemi e procedure end-to-end per la gestione informativa.
+
+- Oggi: Rete Ferroviaria Italiana, Direzione Stazioni — iniziative di innovazione digitale attraverso la gestione informativa, a supporto della Stazione Appaltante.
+- Temi: gestione informativa, information governance, Common Data Environment (CDE), ISO 19650, UNI 11337, BIM, automazione dei processi, data analytics.
+- Pubblicazioni: cinque paper negli atti di 3D Modeling & BIM (2017, 2018, 2019) e EUBIM 2019 (Universitat Politècnica de València).
+- Interventi: Autodesk Rail Summit 2026; Ordine degli Architetti di Roma (2019); Digital&BIM Italia (2018).
+- Progetto: Checkpoint CDE, gioco open source sulla gestione documentale ISO 19650.
+
+## Link
+
+- [Sito](https://matteosarrocco.it/)
+- [LinkedIn](https://www.linkedin.com/in/matteo-sarrocco)
+- [GitHub](https://github.com/cenciocamerario)
+- [Checkpoint CDE](https://cenciocamerario.github.io/checkpoint-cde/)
