@@ -1,6 +1,6 @@
 # Matteo Sarrocco
 
-> Vive e lavora a Roma. Lavora nella trasformazione digitale applicata al settore delle costruzioni e delle infrastrutture: ottimizza e standardizza i processi, ne favorisce l'automazione e la semplificazione, ha progettato e sviluppato sistemi e procedure end-to-end per la gestione informativa.
+> Basato a Roma. Lavora nella trasformazione digitale applicata al settore delle costruzioni e delle infrastrutture: ottimizza e standardizza i processi, ne favorisce l'automazione e la semplificazione, ha progettato e sviluppato sistemi e procedure end-to-end per la gestione informativa.
 
 - Oggi: Rete Ferroviaria Italiana, Direzione Stazioni — iniziative di innovazione digitale attraverso la gestione informativa, a supporto della Stazione Appaltante.
 - Temi: gestione informativa, information governance, Common Data Environment (CDE), ISO 19650, UNI 11337, BIM, automazione dei processi, data analytics.
