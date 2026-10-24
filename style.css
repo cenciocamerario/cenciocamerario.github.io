@@ -64,16 +64,6 @@ h2{font-family:"Syne",sans-serif;font-weight:800;font-size:clamp(26px,4vw,40px);
 .carta h3{font-family:"Syne",sans-serif;font-weight:700;font-size:19px;line-height:1.25;margin:0 0 8px}
 .carta p{margin:0;color:var(--testo-2);font-size:16px}
 
-/* percorso: una linea che scorre */
-.tappe{list-style:none;margin:0;padding:0 0 0 28px;position:relative;max-width:70ch}
-.tappe::before{content:"";position:absolute;left:6px;top:8px;bottom:8px;width:2px;background:linear-gradient(var(--linea),var(--linea))}
-.tappe li{position:relative;padding:0 0 30px}
-.tappe li::before{content:"";position:absolute;left:-27px;top:7px;width:12px;height:12px;border-radius:50%;border:2px solid var(--testo-3);background:var(--notte)}
-.tappe li.oggi::before{border-color:var(--acido);background:var(--acido)}
-.tappe .quando{font-size:13px;font-weight:600;letter-spacing:1px;color:var(--testo-3);text-transform:uppercase}
-.tappe li.oggi .quando{color:var(--acido)}
-.tappe h3{font-family:"Syne",sans-serif;font-weight:700;font-size:20px;margin:4px 0 6px}
-.tappe p{margin:0;color:var(--testo-2)}
 
 /* pubblicazioni */
 .elenco{list-style:none;margin:0;padding:0;max-width:80ch}
