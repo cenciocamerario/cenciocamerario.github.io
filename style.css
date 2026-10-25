@@ -39,10 +39,10 @@ img,svg{display:block;max-width:100%}
 /* hero */
 .hero{padding:28px 0 72px}
 .fiume{width:100%;height:clamp(180px,24vw,300px);margin:8px 0 40px}
-.fiume .flusso path{animation:scorre 20s linear infinite}
-.fiume .flusso path:nth-child(2),.fiume .flusso path:nth-child(3){animation-duration:26s}
-.fiume .flusso path:nth-child(4),.fiume .flusso path:nth-child(5){animation-duration:34s}
-.fiume .flusso path:nth-child(6),.fiume .flusso path:nth-child(7){animation-duration:46s}
+.fiume .flusso path{animation:scorre 10s linear infinite}
+.fiume .flusso path:nth-child(2),.fiume .flusso path:nth-child(3){animation-duration:13s}
+.fiume .flusso path:nth-child(4),.fiume .flusso path:nth-child(5){animation-duration:17s}
+.fiume .flusso path:nth-child(6),.fiume .flusso path:nth-child(7){animation-duration:23s}
 @keyframes scorre{from{transform:translateX(0)}to{transform:translateX(1000px)}}
 .occhiello{font-size:14px;font-weight:600;letter-spacing:.6px;color:var(--testo-2);margin:0 0 14px}
 h1{font-family:"Syne",sans-serif;font-weight:800;font-size:clamp(31px,6.2vw,72px);line-height:1.04;margin:0;max-width:16ch}
