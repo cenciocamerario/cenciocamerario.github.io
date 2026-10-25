@@ -11,6 +11,7 @@
 ## Link
 
 - [Sito](https://cenciocamerario.github.io/)
+- [English version](https://cenciocamerario.github.io/en/)
 - [LinkedIn](https://www.linkedin.com/in/matteo-sarrocco)
 - [GitHub](https://github.com/cenciocamerario)
 - [Checkpoint CDE](https://cenciocamerario.github.io/checkpoint-cde/)

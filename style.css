@@ -31,9 +31,11 @@ img,svg{display:block;max-width:100%}
 .top{position:sticky;top:0;z-index:5;background:rgba(11,27,51,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--linea)}
 .top .wrap{display:flex;align-items:center;justify-content:space-between;min-height:60px;gap:16px}
 .marchio{font-family:"Syne",sans-serif;font-weight:800;letter-spacing:1px;font-size:16px;color:var(--testo);text-decoration:none;line-height:1.1}
-.nav{display:flex;gap:22px;flex-wrap:wrap}
+.nav{display:flex;gap:22px;flex-wrap:wrap;margin-left:auto}
 .nav a{color:var(--testo-2);text-decoration:none;font-size:15px;font-weight:500;padding:10px 0}
 .nav a:hover{color:var(--testo)}
+.lingua{color:var(--testo-2);text-decoration:none;font-size:13px;font-weight:600;letter-spacing:1px;border:1px solid var(--linea);border-radius:999px;padding:6px 12px}
+.lingua:hover{color:var(--testo);border-color:var(--testo-2)}
 @media (max-width:760px){.nav{display:none}}
 
 /* hero */
