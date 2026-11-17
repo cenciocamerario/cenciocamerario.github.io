@@ -14,4 +14,5 @@
 - [Versione italiana](https://cenciocamerario.github.io/it/)
 - [LinkedIn](https://www.linkedin.com/in/matteo-sarrocco)
 - [GitHub](https://github.com/cenciocamerario)
+- Email: contatti@matteosarrocco.it
 - [Checkpoint CDE](https://cenciocamerario.github.io/checkpoint-cde/)
